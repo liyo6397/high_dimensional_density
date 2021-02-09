@@ -7,7 +7,7 @@ try:
 except ImportError:
     print("Please install setuptools.")
 
-VERSION = '0.0.1'
+VERSION = '0.0.3'
 DESCRIPTION = 'HighDim is a numerical package for computing the marginal density distribution.'
 
 
@@ -23,8 +23,8 @@ setup(
     # the name must match the folder name 'verysimplemodule'
     name="HighDim",
     version=VERSION,
-    author="liyo6397",
-    author_email="<lilyyoung1122@gmail.com>",
+    author="Lily Young",
+    author_email="lilyyoung1122@gmail.com",
     description=DESCRIPTION,
     long_description=long_description,
     long_description_content_type='text/markdown',

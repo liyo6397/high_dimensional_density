@@ -1,7 +1,7 @@
 # high_dimensional_density
 HighDim is a numerical package for computing the marginal density distribution. The algorithm is inspired by the paper: [High-Dimensional Probability Estimation with Deep Density Models](https://arxiv.org/abs/1302.5125). This originally applied to verify the distribution of output of machine learning. The authors proposed the algorithm which mapped the complex high dimensional data into Dirichlet distribution. This approach preserve the number of dimension and gives us known and identical marginal density function. 
 
-The proof for the approach is in here. 
+The proof for the approach is in here: [High-dimensional probability estimation for empirical data](https://github.com/liyo6397/high_dimensional_density/blob/master/docs/introduction.pdf)
 
 
 
